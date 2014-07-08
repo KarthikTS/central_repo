@@ -3,11 +3,6 @@
 using namespace std;
 #define cons 10.0
 
-void func()
-{
-    return;
-}
-
 int main()
 {
     cout << "Hello world \n";
